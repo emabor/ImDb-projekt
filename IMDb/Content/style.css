@@ -1,0 +1,201 @@
+﻿@font-face
+{
+    font-family: 'Open Sans';
+	src: url(../fonts/OpenSans-Regular.ttf);
+}
+
+body
+{
+    padding-top: 60px;
+    font-family: "Open Sans";
+	background-color: #E8E8E8;
+	
+}
+#header 
+{
+    background-color: #FFFF66;
+	height: 85px;
+    margin: -60px 0px 0px 0px;
+	float:left;
+	width:100%;
+}
+#socialNet
+{
+	float: right;
+	margin: -100px 0px 0px 0px;
+	padding: 20px 50px 0px 0px;
+}
+#searchContainer
+{
+	margin: 0px 0px -30px 135px;
+}
+.login
+{
+	float: left;
+	margin: 0px 0px -20px 150px;
+}
+.img {
+    margin:-15px 0px 0px 0px;
+}
+.home_picture{
+	margin: -20px 0px 0px 0px;
+}
+#footer {
+    min-height: 50px;
+	max-height: 100px;
+	background-color: #FFFF66;
+	text-align: center;
+	float:left;
+	width:100%;
+	margin: 50px 0px 0px 0px;
+}
+.left {
+    text-align:center;
+	margin-top: 20px;
+}
+#body{
+	margin:0 10% 0 10%;
+	float:left;
+	width:80%;
+	
+}
+#left{
+	width:80%;
+	float:left;
+	padding-top: 50px;
+}
+#right{
+	width:20%;
+	float:left;
+	
+}
+.trailer{
+	border:5px solid;
+	float:left;
+	width:100%;
+	padding-bottom:20px;
+	height: 200px;
+}
+.trailer_imgs{
+	float:left;
+	width:100%;
+	margin-left:5%;
+	margin-right:5%;
+	height: 90%;
+}
+.trailer_img{
+	width:33%;
+	float:left;
+	padding-top: 25px;
+}
+.trailer_footer{
+	float:left;
+	width:100%;
+	/*border:1px solid;
+	margin: 10px 20px 10px 10px;*/
+	height: 10%;
+}
+.trailer_footer_leftbutton  a{
+	float:left;
+	padding-left:20px;
+	
+}
+.trailer_footer_rightbutton  a{
+	float:right;
+	padding-right:20px;
+	
+}
+.trailer_footer_middle{
+	padding-left:20px;
+}
+.box1{
+	margin-top:20px;
+	border:5px solid;
+	float:left;
+	width:100%;
+	padding-bottom:20px;
+}
+.box1_body{
+	float:left;
+	width:100%;
+}
+.box1_body h2{
+	padding-left:20px;
+}
+.box1_footer{
+	float:left;
+	width:100%;
+}
+.box1_footer a{
+	float:right;
+	padding-right:20px;
+	
+}
+.box1_imgs{
+	float:left;
+	width:100%;
+	margin-left:5%;
+	margin-right:5%;
+	height: 90%;
+}
+.box1_img{
+	width:33%;
+	float:left;
+	margin: 0px -50px 0px 50px;
+}
+.box2{
+	margin-top:50px;
+	margin-left:30px;
+	border:5px solid;
+	float:left;
+	width:100%;
+	padding-bottom:20px;
+}
+.box2_footer{
+	float:left;
+	width:100%;
+}
+.box2_footer a{
+	float:right;
+	padding-right:20px;
+}
+.box2_img{
+	width:33%;
+	float:left;
+	margin: 0px 0px 0px 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
